@@ -12,6 +12,7 @@ DOWNLOAD_LINKS = [
     "https://raw.githubusercontent.com/jackszb/sukka-surge/main/domainset/reject.json",
     "https://raw.githubusercontent.com/jackszb/sukka-surge/main/domainset/reject_extra.json",
     "https://raw.githubusercontent.com/jackszb/sukka-surge/main/domainset/reject_phishing.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-surge/main/non_ip/reject-no-drop.json",
     "https://raw.githubusercontent.com/jackszb/sukka-surge/main/ip/reject.json",
     "https://raw.githubusercontent.com/jackszb/sukka-surge/main/non_ip/reject.json",
 ]
