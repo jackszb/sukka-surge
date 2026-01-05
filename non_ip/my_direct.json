@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rules": [
     {
       "domain": [
@@ -12,7 +12,9 @@
         "engage.cloudflareclient.com",
         "download.555mac.com"
       ],
-      "domain_keyword": ["mac-torrent-download"]
+      "domain_keyword": [
+        "mac-torrent-download"
+      ]
     }
   ]
 }

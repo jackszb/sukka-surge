@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rules": [
     {
       "domain": [
@@ -23,7 +23,11 @@
         "adobestats.io",
         "adobe.io"
       ],
-      "domain_keyword": ["bahoom", "-flv.meituan.net", "-live.meituan.net"]
+      "domain_keyword": [
+        "bahoom",
+        "-flv.meituan.net",
+        "-live.meituan.net"
+      ]
     }
   ]
 }

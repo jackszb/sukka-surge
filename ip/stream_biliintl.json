@@ -1,8 +1,10 @@
 {
-  "version": 2,
+  "version": 3,
   "rules": [
     {
-      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
+      ],
       "domain_suffix": [],
       "domain_keyword": [],
       "domain_regex": [],

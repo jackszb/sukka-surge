@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rules": [
     {
       "domain": [
@@ -841,7 +841,9 @@
         "6.cn",
         "3.cn"
       ],
-      "domain_regex": ["^[\\w.-]*?\\.qhimgs[\\w.-]\\.com$"]
+      "domain_regex": [
+        "^[\\w.-]*?\\.qhimgs[\\w.-]\\.com$"
+      ]
     }
   ]
 }
