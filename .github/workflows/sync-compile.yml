@@ -42,7 +42,7 @@ jobs:
         mv sing-box/* ./
         rm -rf sing-box sing-box-${SING_BOX_VERSION}-linux-amd64 sing-box.tar.gz
 
-        # ✅ 强制 JSON 版本为 3
+        # 强制 JSON 版本为 3
         find . -type f -name "*.json" -exec bash -c '
           echo "Processing JSON for v3: $1"
           jq "
@@ -73,5 +73,5 @@ jobs:
           echo "No updates needed"
         else
           git commit -m "Merged sing-box directory from ruleset.skk.moe repository"
-          git push
+          git push --force
         fi
